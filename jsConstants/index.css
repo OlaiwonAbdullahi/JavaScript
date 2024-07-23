@@ -1,4 +1,12 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.534);
+    color: aqua;
+}
+#mySubmit{
+    color: aqua;
+    background-color: black;
+    font-size: .5em;
 }
