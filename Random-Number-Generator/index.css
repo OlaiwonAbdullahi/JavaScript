@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.534);
+    color: aqua;
+}
+#myBtn{
+    font-size: 3em;
+    padding: 5px 25px;
+     border-radius: 5px;
+     color: aqua;
+     background-color: black;
+}
+#myLabel{
+    font-size: 3em;
+}
