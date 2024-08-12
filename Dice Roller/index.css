@@ -4,4 +4,25 @@
     font-size: 2rem;
     font-weight: bold;
 }
-button
+button{
+    font-size: 1em;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #055252;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #0552526c;
+}
+button:active{
+    background-color: #05525218;
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    font-weight: bold;
+
+}
